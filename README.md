@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="preview.jpg" alt="Focus Timer Preview" width="100%">
+  <img src="preview.png" alt="Focus Timer Preview" width="100%">
 </p>
 
 ## 🚀 Overview

@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
+ <p align="center">
+  <a href="https://vaish9825.github.io/Focus_timer/"><strong>➥ Live Demo</strong></a>
+</p>
+
 <p align="center">
   <img src="preview.png" alt="Focus Timer Preview" width="100%">
 </p>
